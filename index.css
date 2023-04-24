@@ -99,5 +99,6 @@
    
 } 
 body{
-   background-image: linear-gradient(to right,rgb(141, 139, 139),rgb(46, 42, 42));    
+   background-image: linear-gradient(to right,rgb(141, 139, 139),rgb(46, 42, 42));
+   overflow:hidden;
 }

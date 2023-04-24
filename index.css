@@ -1,0 +1,103 @@
+.heading1{
+   text-align:center;
+   margin-top:150px;
+   font-family: 'Ysabeau', sans-serif;
+}
+.div1{
+   text-align: center;      
+   /* margin-top:200px; */
+   background-color:rgb(60, 4, 4);
+   height: 150px;
+   margin-top:auto;
+   width:400px;
+   border:solid black;
+   padding-left: 5px;
+   color: white;
+   font-family: 'Ysabeau', sans-serif;
+  background-image: linear-gradient(to right,rgb(1, 1, 1),rgb(204, 204, 204));
+
+}
+.div2{
+   text-align: center;
+   width:700px;
+   margin-top:20px;
+   background-color:rgb(60, 4, 4);
+   height:270px;
+   /* height: 25%; */
+   /* overflow:hidden; */
+   border:solid black;
+   padding-left: 5px;
+   color: white;
+   font-family: 'Ysabeau', sans-serif;
+  /* background-image: linear-gradient(to left,rgb(67, 5, 10),rgb(204, 201, 12)); */
+   
+} 
+.res{
+   color:black;
+   display: inline-block;
+   height: 700px;
+   width: 250px;
+}
+.card{
+   height:150px;
+   border: solid black;
+   
+   }
+   .card-header{
+   height:25%;
+   background-image: linear-gradient(to left,rgb(85, 70, 62),rgb(131, 148, 93)); 
+   border:solid black;
+   padding-bottom:35px;
+   font-family: 'Ysabeau', sans-serif;
+   }
+   .card-body{
+       border:solid black;
+       background-image: linear-gradient(to left,rgb(85, 70, 62),rgb(131, 148, 93)); 
+       height:75%;
+       font-family: 'Ysabeau', sans-serif;
+   }
+
+.result{
+   display: none; 
+   color:black;
+   
+   background-image: linear-gradient(to left,rgb(166, 162, 160),rgb(105, 113, 86)); 
+}
+#btn{
+   height: 30px;
+   text-align: center;
+   border-radius: 10px;
+   border:solid black;
+   padding-bottom:30px;
+   font-family:'Ysabeau', sans-serif;
+   background-image: linear-gradient(to left,rgb(105, 113, 86),rgb(166, 162, 160)); 
+}
+#resetbtn{
+   height: 30px;
+   border-radius: 10px;
+   border:solid black;
+   padding-bottom:30px;
+   font-family:'Ysabeau', sans-serif;
+   background-image: linear-gradient(to left,rgb(105,113,86),rgb(213, 211, 210)); 
+
+}
+#searchtext{
+   display: inline-block;
+   margin-top:40px;
+   border-radius: 20px;
+   font-family:'Ysabeau', sans-serif;
+   background-image: linear-gradient(to left,rgb(7, 55, 66),rgb(236, 235, 235)); 
+}
+
+
+.div3{
+   color:black;
+   display: inline-block;
+   height: 500px;
+   width: 300px;
+   /* background-image: linear-gradient(to right,rgb(224, 190, 223),rgb(109, 179, 197)97));  */
+   
+} 
+body{
+   background-image: linear-gradient(to right,rgb(141, 139, 139),rgb(46, 42, 42));    
+}
